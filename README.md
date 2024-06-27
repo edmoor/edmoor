@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Aesthetic GIF" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edmoor&label=Profile%20views&color=0e75b6&style=flat" alt="edmoor" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
